@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11609" started-at="2017-12-18T07:12:55Z" finished-at="2017-12-18T07:13:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11609" started-at="2017-12-18T07:12:55Z" finished-at="2017-12-18T07:13:07Z">
+      <class name="myPackage8.openBrowser">
+        <test-method status="PASS" signature="login_FlipKart()[pri:0, instance:myPackage8.openBrowser@878537d]" name="login_FlipKart" duration-ms="11601" started-at="2017-12-18T12:42:55Z" finished-at="2017-12-18T12:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_FlipKart -->
+      </class> <!-- myPackage8.openBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
